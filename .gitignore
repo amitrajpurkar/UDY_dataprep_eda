@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+## custom entries, added by amit
+.DS_Store
+
 # IDE configs, idea pycharm
 .idea/
 
